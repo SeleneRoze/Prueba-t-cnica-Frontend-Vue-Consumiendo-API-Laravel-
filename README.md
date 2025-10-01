@@ -50,7 +50,7 @@ Se muestran las tarjetas con nombre y correo de cada usuario (generados con seed
 
 🔹 Pokémon
 
-Al dar clic en “Pokémon”, puedes escribir el nombre de un Pokémon en minúsculas.
+Al dar clic en “Pokémon”, puedes escribir el nombre de un Pokémon en minúsculas (recomendado).
 
 Se consulta el endpoint:
 
